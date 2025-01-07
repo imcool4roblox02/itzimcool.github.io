@@ -3,11 +3,11 @@
 <title>ItzImcool's Astromical Maps</title>
 </head>
 <center>
-<a href="mercury/mercury/mercury_rgb_cyl_www.jpg">
-<img align="center" src="mercury/mercury/mercury_rgb_cyl_thumb.jpg">
+<a href="main/images/jupitertruecolor(hubble2024).jpg">
+<img align="center" src="main/images/jupitertruecolor(hubble2024).jpg">
 </a>
 <br>
-<a href="mercury/mercury/mercury_rgb_cyl_www.jpg">JPEG</a>,
-<a href="mercury/mercury/mercury_rgb_cyl_www.png">PNG</a>-
+<a href="main/images/jupitertruecolor(hubble2024).jpg">JPEG</a>,
+<a href="main/images/jupitertruecolor(hubble2024).jpg">PNG</a>-
 <span style="color: rgb(0, 0, 255);">(image updated 10/21/2011)</span>
 </center>
